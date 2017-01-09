@@ -1,1 +1,1 @@
-# syncmeg.github.io
+# syncmeg.github.io - Official website of Reymond Altarejos
